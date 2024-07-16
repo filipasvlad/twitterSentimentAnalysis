@@ -1,0 +1,9 @@
+<RCC>
+  <qresource>
+    <file>icons/negative-dynamic-64.png</file>
+    <file>icons/pie-chart-5-64.png</file>
+    <file>icons/positive-dynamic-64.png</file>
+    <file>icons/search-13-64.png</file>
+    <file>icons/settings-64.png</file>
+  </qresource>
+</RCC>
